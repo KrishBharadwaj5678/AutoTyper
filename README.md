@@ -30,13 +30,13 @@ It helps automate high-volume typing tasks, making it useful for testing, produc
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/KrishBharadwaj5678/auto-typer.git
+git clone https://github.com/KrishBharadwaj5678/AutoTyper.git
 ```
 
 ### 2️⃣ Navigate to the Project
 
 ```bash
-cd auto-typer
+cd AutoTyper
 ```
 
 ### 3️⃣ Install Dependencies
